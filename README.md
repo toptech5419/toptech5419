@@ -154,7 +154,7 @@ Role-based dashboards (Owner, Manager, Sales Rep) with real-time inventory, shif
 
 A Tinder-style course-discovery app with AI-powered recommendations via the Google Gemini API. Led frontend across a 4-person team — 111+ courses, swipe matching, shareable results, and GDPR-compliant capture.
 
-`React 18` · `TypeScript` · `Vite` · `Google Gemini API` · `Tailwind CSS`
+`React 18` · `Next.js` · `TypeScript` · `Google Gemini API` · `Tailwind CSS`
 
 **🔗 [meet-your-match.vercel.app](https://meet-your-match.vercel.app)**
 
